@@ -1,0 +1,36 @@
+{
+  "name": "cubic_cleaned",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ducxy",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.4.0",
+    "ascii-table": "0.0.9",
+    "babel-polyfill": "^6.26.0",
+    "beautify": "0.0.8",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.3.1",
+    "face-api.js": "^0.22.2",
+    "fetch": "^1.1.0",
+    "figlet": "^1.5.0",
+    "moment": "^2.28.0",
+    "node-fetch": "^2.6.1",
+    "node-pre-gyp": "^0.15.0",
+    "node-spotify-api": "^1.1.1",
+    "opusscript": "0.0.7",
+    "popyt": "^4.1.1",
+    "request": "^2.88.2",
+    "solenolyrics": "^5.0.0",
+    "trev": "^2.0.8",
+    "urban": "^0.3.2",
+    "ytdl-core": "^3.2.2"
+  }
+}
