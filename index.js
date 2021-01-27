@@ -277,5 +277,5 @@ bot.on("disconnect", function(event) {
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 
-bot.login(botconfig.token);
-//process.env.BOT_TOKEN
+bot.login(process.env.BOT_TOKEN);
+//botconfig.token
